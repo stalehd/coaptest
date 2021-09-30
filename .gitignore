@@ -1,0 +1,6 @@
+testdata/
+coaptest
+*.exe
+*.o
+*.a
+
